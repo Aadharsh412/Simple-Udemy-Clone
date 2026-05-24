@@ -36,7 +36,8 @@ Buttons, icons, and links are not functional yet.
 
 ## 📸 Preview
 
-(Add your project screenshot here)
+<img width="1905" height="881" alt="image" src="https://github.com/user-attachments/assets/e63e7013-1dae-4bde-a146-45f6877177f6" />
+
 
 ## 🔗 Future Improvements
 
